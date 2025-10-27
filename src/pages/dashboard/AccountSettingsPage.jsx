@@ -118,7 +118,7 @@ const AccountSettingsPage = () => {
     return (
         <>
             <Helmet>
-                <title>অ্যাকাউন্ট সেটিংস - LetsDropship</title>
+                <title>অ্যাকাউন্ট সেটিংস - TKDropShip</title>
             </Helmet>
             <div className="space-y-6">
                 <div>

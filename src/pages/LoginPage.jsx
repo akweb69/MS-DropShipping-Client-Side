@@ -44,7 +44,7 @@ const LoginPage = () => {
   return (
     <>
       <Helmet>
-        <title>লগইন - LetsDropship</title>
+        <title>লগইন - TKDropShip</title>
         <meta name="description" content="এক্সক্লুসিভ ফিচার অ্যাক্সেস করতে লগইন করুন।" />
       </Helmet>
       <div className="min-h-[calc(100vh-200px)] flex items-center justify-center bg-slate-50 p-4">

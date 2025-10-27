@@ -167,7 +167,7 @@ const BillingPage = () => {
     return (
         <>
             <Helmet>
-                <title>বিলিং ও সাবস্ক্রিপশন - LetsDropship</title>
+                <title>বিলিং ও সাবস্ক্রিপশন - TKDropShip</title>
             </Helmet>
             <div className="space-y-6">
                 <div>

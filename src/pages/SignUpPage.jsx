@@ -111,7 +111,7 @@ const SignUpPage = () => {
   return (
     <>
       <Helmet>
-        <title>সাইন আপ - LetsDropship</title>
+        <title>সাইন আপ - TKDropShip</title>
         <meta name="description" content="একটি নতুন অ্যাকাউন্ট তৈরি করুন এবং আমাদের সাথে আপনার যাত্রা শুরু করুন।" />
       </Helmet>
       <div className="flex flex-col lg:flex-row min-h-[50vh] gap-10 lg:gap-0 bg-gray-50">
